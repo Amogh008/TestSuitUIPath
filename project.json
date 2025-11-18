@@ -88,6 +88,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TC_UiBankAPI.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c5a830b6-7c1f-47b4-9419-ae0a4c3c0ef0",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_EMLAssignment2.xaml"
       }
     ],
     "modernBehavior": true
